@@ -2,6 +2,11 @@
 Portfólio do desenvolvedor
 
 ##Tarefas
-O controle
+O controle sera feito no git hub
 
-##RESOLVER PROBLEMA NO GIT PUSH
+##Icones
+
+:package: nova funcionalidade
+:up: atualização
+:beatle: correção de bug
+:checkered_flag: release
