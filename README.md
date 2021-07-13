@@ -2,11 +2,11 @@
 
 Portfólio do desenvolvedor
 
-##Tarefas
+## Tarefas
 
 O controle sera feito no git hub
 
-##Icones
+## Icones
 
 - :package: nova funcionalidade
 - :up: atualização
