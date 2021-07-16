@@ -436,13 +436,21 @@ header{
      background-color: #eee;
      padding: 1rem 3rem 3rem 3rem;
 }
+
+
 .sessao-contato h1{
     font-family: var(--font-primary);
     width: 100%;
     text-align: center;
-    color: #272727;
+    color: #ffff;
     font-size: 3rem;
     font-weight: lighter;
+    background: #e96443; 
+    background: -webkit-linear-gradient(to right, #904e95, #e96443);  
+    background: linear-gradient(to left, #904e95, #e96443);
+    border-radius: .4rem;
+    box-shadow: 0 .2rem .3rem rgba(0, 0, 0, 0.405);
+   
 }
 .sessao-contato form{
     width: 100%;
